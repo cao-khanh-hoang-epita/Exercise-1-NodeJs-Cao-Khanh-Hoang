@@ -1,0 +1,12 @@
+{
+  "name": "exercise-1-nodejs-cao-khanh-hoang",
+  "version": "1.0.0",
+  "description": "JS intro: Objects,  Array manipulation and Clases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
